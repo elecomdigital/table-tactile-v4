@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cg.html
+Disallow: /policy.html
+Disallow: /siteplan.html
+Disallow: /reference.html
+Disallow: /legalmention.html
+Disallow: /team.html
+Disallow: *.png
